@@ -1,0 +1,25 @@
+/* 
+general 
+-------
+*/
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .nav{
+    color: black;
+  }
+  
+.topnav {
+  overflow: hidden;
+  background-color:white;
+  margin-right: 20%;
+  margin-left: 20%;
+  line-height: 100px;
+  
+}
+
+
+
+
+
