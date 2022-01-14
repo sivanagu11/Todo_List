@@ -1,7 +1,9 @@
 
    <template>
   <div class="topnav">
+    
     <b-navbar-brand><h1 class="nav">Todo Task</h1> </b-navbar-brand>
+  
   </div>
 </template>
 
